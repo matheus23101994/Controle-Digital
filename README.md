@@ -121,6 +121,8 @@ Abaixo seguem as planilhas das regressões dos potenciômetros e sensores com o 
 ## CONCLUSÃO
 Com a crescente demanda de energias renováveis mais eficientes no mercado, o sistema de seguidor solar será concebido como uma solução muito benéfica.
 
+Com a implementação do controlador PID foi visivelmente notório a redução de erros de posicionamento, comparados a sistemas que não utilizam essa técnica de controle em seu conjunto. Notou-se também suavidade em seu posicionamento reduzindo obviamente desgastes tanto do suporte, quanto dos servomotores.
+
 O protótipo de seguidor solar o qual desenvolvemos é caracterizado pela a simplicidade e pela versatilidade de sua implementação, podendo ser facilmente empregado em sistemas reais de projetos de energia fotovoltaica. Com tudo existem claras limitações para o emprego real, pois dependendo das proporções do projeto, pode tornar-se algo relativamente inviável devido ao alto de custo de seu emprego, isso por conta da produção em escala dos equipamentos necessários para a automatização.
 
 ![alt tag](https://raw.githubusercontent.com/Ricardo959/Controle-Digital/master/9.png)

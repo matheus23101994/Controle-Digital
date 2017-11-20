@@ -66,5 +66,5 @@ O protótipo de seguidor solar o qual desenvolvemos é caracterizado pela a simp
 
 Com a implementação do controlador PID foi visivelmente notório a redução de erros de posicionamento, comparados a sistemas que não utilizam essa técnica de controle em seu conjunto. Notou-se também suavidade em seu posicionamento reduzindo obviamente desgastes tanto do suporte, quanto dos servomotores.
 
-No entanto os controladores integral e derivativo foram menos atuantes no processo, sendo observado uma maior atuação por parte do controlador proporcional. O controlador proporcional trouxe velocidade ao processo, o controlador integrativo fez com o que o sistema reduzisse a sua velocidade quando aproximava-se do setpoint, o controlador diferencial trouxe estabilidade ao sistema.
+No entanto os controladores integral e derivativo foram menos atuantes no processo, sendo observado uma maior atuação por parte do controlador proporcional. O controlador proporcional trouxe velocidade ao processo, o controlador integrativo fez com o que o sistema reduzisse a sua velocidade quando aproximava-se do setpoint, o controlador diferencial trouxe estabilidade ao sistema. b
 

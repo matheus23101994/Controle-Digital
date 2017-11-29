@@ -468,6 +468,4 @@ void loop() {
   Serial.print("      ");
   Serial.print("pidVertical = ");
   Serial.println(pid_vertical.pid());
-
-  delay(1);
 }
